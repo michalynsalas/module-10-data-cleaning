@@ -5,12 +5,12 @@ This project focuses on cleaning and preparing messy customer data for analysis 
 module10-assignment.py
 
 ## What I Practiced
-Handling missing data
-Cleaning and formatting text fields
-Converting data type
-Removing duplicates
+- Handling missing data
+- Cleaning and formatting text fields
+- Converting data type
+- Removing duplicates
 
 ## Key Features
-Data standardization (names, phone numbers, categories)
-Feature engineering (customer metrics)
-Data quality reporting
+- Data standardization (names, phone numbers, categories)
+- Feature engineering (customer metrics)
+- Data quality reporting
