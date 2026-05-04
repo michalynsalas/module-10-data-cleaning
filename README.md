@@ -1,2 +1,16 @@
 # module-10-data-cleaning
-Data cleaning project using Pandas to handle missing values, format data, and prepare datasets for analysis.
+This project focuses on cleaning and preparing messy customer data for analysis using Pandas.
+
+## Files Included
+module10-assignment.py
+
+## What I Practiced
+Handling missing data
+Cleaning and formatting text fields
+Converting data types
+Removing duplicates
+
+## Key Features
+Data standardization (names, phone numbers, categories)
+Feature engineering (customer metrics)
+Data quality reporting
