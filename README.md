@@ -7,11 +7,10 @@ module10-assignment.py
 ## What I Practiced
 Handling missing data
 Cleaning and formatting text fields
-Converting data types
+Converting data type
 Removing duplicates
 
 ## Key Features
-
 Data standardization (names, phone numbers, categories)
 Feature engineering (customer metrics)
 Data quality reporting
