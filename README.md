@@ -11,6 +11,7 @@ Converting data types
 Removing duplicates
 
 ## Key Features
+
 Data standardization (names, phone numbers, categories)
 Feature engineering (customer metrics)
 Data quality reporting
